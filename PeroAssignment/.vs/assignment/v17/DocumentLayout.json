@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gd75joao\\Desktop\\assignment\\PeroAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3264C8-95E3-49E5-B646-09BC9EAAB7E1}|assignment\\assignment.csproj|c:\\users\\gd75joao\\desktop\\assignment\\peroassignment\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3264C8-95E3-49E5-B646-09BC9EAAB7E1}|assignment\\assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gd75joao\\Desktop\\assignment\\PeroAssignment\\assignment\\Program.cs",
+              "RelativeDocumentMoniker": "assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\gd75joao\\Desktop\\assignment\\PeroAssignment\\assignment\\Program.cs",
+              "RelativeToolTip": "assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:55:29.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
